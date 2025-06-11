@@ -44,14 +44,15 @@ The system is divided into several microservices, each running independently and
 
 To run the application locally, start each component on the specified port:
 
-| Component         | Port  |
-|--------------- ---|-------|
-| plant-service     | 8080  |
-| user-service      | 8082  |
-| specimen-service  | 8083  |
-| API Gateway       | 8085  |
-| Frontend (React)  | 3000  |
-| Eureka Server     | 8761  |
+| Component          | Port |
+|--------------------|------|
+| plant-service      | 8080 |
+| user-service       | 8082 |
+| specimen-service   | 8083 |
+| API Gateway        | 8085 |
+| Frontend (React)   | 3000 |
+| Eureka Server      | 8761 |
+
 
 ---
 
